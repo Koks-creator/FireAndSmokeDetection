@@ -5,7 +5,7 @@ from time import perf_counter
 import zipfile
 import os
 from PIL import Image
-from FireSmokDetection.config import Config
+from config import Config
 
 
 @dataclass(frozen=True)
