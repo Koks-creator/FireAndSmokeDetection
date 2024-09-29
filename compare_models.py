@@ -6,8 +6,8 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-from FireSmokDetection.detector import Detector
-from FireSmokDetection.config import Config
+from detector import Detector
+from config import Config
 import matplotlib
 
 
