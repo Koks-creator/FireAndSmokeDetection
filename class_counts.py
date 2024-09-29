@@ -1,6 +1,6 @@
 from glob import glob
 
-from FireSmokDetection.config import Config
+from config import Config
 
 class_file_path = rf"{Config.ROOT_PATH}\train_data\labels\train\classes.txt"
 labels_folder = rf"{Config.ROOT_PATH}\train_data\labels\train"
