@@ -18,8 +18,8 @@ from tenacity import retry, stop_after_attempt, wait_fixed, retry_if_exception_t
 
 load_dotenv()
 
-from FireSmokDetection.detector import Detector
-from FireSmokDetection.config import Config
+from detector import Detector
+from config import Config
 
 
 @dataclass
