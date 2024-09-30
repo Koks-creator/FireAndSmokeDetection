@@ -349,7 +349,7 @@ if __name__ == '__main__':
             model_path=Config.MODEL_PATH,
             classes_file_path=Config.CLASSES_PATH,
             location="Mocna Lokalizacja",
-            send_alerts=True,
+            send_alerts=Config.TELEGRAM_ALERTS,
             check_interval_sec=Config.CHECK_INTERVAL_SEC
         )
         fire_alert.detect_on_video(video_cap=Config.VIDEO_CAP)
