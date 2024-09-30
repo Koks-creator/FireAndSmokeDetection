@@ -17,6 +17,11 @@ Fire and smoke detection system which calculates severity based on area occupied
     ```
     pip install requirements.txt
     ```
+  - Create .env file (if you wanna have telegram alert, if you don't wanna don't create this file, just set TELEGRAM_ALERTS in config.py to False)
+    ```
+    BOT_TOKEN=
+    CHAT_ID=
+    ```
 
 ### 3. mocny_system.py
 Main file
@@ -27,7 +32,7 @@ Main file when everything happens, I am not gonna explain every method and stuf 
 ### 5. detector.py
 File with yolov5 detector
 
-### 6. Config.py
+### 6. config.py
 Config file for all other files
 
 ### 7. compare_models.py
