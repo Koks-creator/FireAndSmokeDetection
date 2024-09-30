@@ -27,4 +27,5 @@ class Config:
     LOG_LEVEL: int = logging.INFO
     RETRY_INTERVAL: int = 30
     RETRY_COUNT: int = 3
+    TELEGRAM_ALERTS: bool = True
 
