@@ -23,8 +23,8 @@ Fire and smoke detection system which calculates severity based on area occupied
     CHAT_ID=
     ```
 
-### 3. mocny_system.py
-Main file
+### 3. yolov5_tutorialwithgoogledrive.ipynb
+Colab notebook for training yolov5 model
 
 ### 4. mocny_system.py
 Main file when everything happens, I am not gonna explain every method and stuf cuz nobody reads it anyways and I expect you to have some python knowledge or you can use LLMs like chat gpt or claude or whatever...
