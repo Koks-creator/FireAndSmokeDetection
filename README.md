@@ -3,7 +3,7 @@
 
 ### 1. Introduction
 Fire and smoke detection system which calculates severity based on area occupied by fire and smoke and sending telegram alert.
-[![video](https://img.youtube.com/vi/CPuEzSP2ArQ/0.jpg)](https://www.youtube.com/CPuEzSP2ArQ) ![alert](https://github.com/user-attachments/assets/fa0cb3cd-1a85-4ef9-8899-5df586e00c00)
+[![video](https://img.youtube.com/vi/CPuEzSP2ArQ/0.jpg)](https://www.youtube.com/watch?v=CPuEzSP2ArQ) ![alert](https://github.com/user-attachments/assets/fa0cb3cd-1a85-4ef9-8899-5df586e00c00)
 
 ### 2. Setup
   - Install Python 3.9+
